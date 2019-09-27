@@ -1,0 +1,12 @@
+.name-table {
+	border-collapse: collapse;
+}
+
+.name-th {
+	border: 1px solid black;
+	text-align: right;
+}
+
+.name-td {
+	border: 1px solid black;
+}
